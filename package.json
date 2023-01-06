@@ -1,0 +1,20 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.4",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@openzeppelin/contracts": "^4.8.0",
+    "dotenv": "^16.0.3",
+    "framer-motion": "^8.0.2",
+    "react-icons": "^4.7.1",
+    "react-loading": "^2.0.3",
+    "react-router-hash-link": "^2.4.3",
+    "styled-components": "^5.3.6"
+  }
+}
